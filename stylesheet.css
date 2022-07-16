@@ -1,0 +1,28 @@
+@charset "UTF-8";
+body {
+  background-color: #fffac2;
+}
+
+h1 {
+  font-family: serif;
+  text-align: center;
+  color: #0bd;
+  font-size: 4rem;
+  margin: 200px;
+}
+
+p {
+  font-family: sans-serif;
+  text-align: center;
+  font-size: 40px;
+  margin-top: 300px;
+}
+
+img {
+  width: 400px;
+  height: 200px;
+}
+
+.class1 {
+  text-align: center;
+}
